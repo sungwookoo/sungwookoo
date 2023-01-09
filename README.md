@@ -14,19 +14,14 @@
 <img src="https://img.shields.io/badge/Vue.js-239120?style=plastic&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-green?style=plastic&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-green?style=plastic&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-green?style=plastic&logo=Jpa&logoColor=white"/>
 <br>
 👌I'm beginner at...<br>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/> 
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-red?style=flat-square&logo=Next.js&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square"/>
-<img src="https://img.shields.io/badge/Nest.js-ff0000?style=flat-square&logo=NestJs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=plastic&logo=React&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Node.js-green?style=plastic&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white"/>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mccreate&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungwookoo&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mccreate&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungwookoo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
