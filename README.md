@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=🙌Welcome&height=200&fontSize=100)
 <div align="center">
 
-<h3>🖐Thank you for visiting my repository!🙏</h3>
+<h3>🖐Thank you for visiting my repository🙏</h3>
 
   💻 I'm Backend Developer. <br>
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsungwookoo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br>
