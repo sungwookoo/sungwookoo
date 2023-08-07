@@ -23,8 +23,4 @@
 <img src="https://img.shields.io/badge/Django-3766AB?style=plastic&logo=Django&logoColor=white"/>
 <br>
 <br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungwookoo&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungwookoo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
