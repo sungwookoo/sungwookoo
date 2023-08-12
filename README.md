@@ -16,7 +16,7 @@
 
 <br>
 ✔ I'm beginner at...<br>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=plastic&logo=React&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Node.js-green?style=plastic&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/>
